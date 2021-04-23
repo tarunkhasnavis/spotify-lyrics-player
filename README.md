@@ -5,8 +5,8 @@ To Run Project
 
 - Clone Repo and Navigate to Project Folder
 - Run Server
-  cd server
-  npm run devStart
+  - cd server
+  - npm run devStart
 - Run Client 
-  cd client 
-  npm start
+  - cd client 
+  - npm start
